@@ -14,7 +14,7 @@
 - mov x0 p1
 - mov x0 x3
 - mov x0 dat
-- teq dat 999
+- tgt dat 100
 - slp dat
 - mov 0 p0
 - mov 0 p1
